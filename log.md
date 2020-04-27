@@ -16,3 +16,12 @@
 **Thoughts:** The problem used very big numbers and I struggled a bit with the different types. I ended up trying to use BigInteger but could not get it to work as I wanted. I'll try again tomorrow.
 
 **Link to work:** -
+
+
+### Day 3: April 27, 2020
+
+**Today's Progress**: Tried JavaScript for the very first time. I went for the p5.js framework because it allows for nice visuals. I created a small app that simulates some particles. Those particles try to stay as far as possible from each other and the end result looks quite funny.
+
+**Thoughts:** I really liked this first approach to JavaScript. However I don't need to be an expert to know that my code is really dirty. I will try to improve that point. I didn't continue the Leetcode challenge today as I said yesterday, but I will get back to it one of those days.
+
+**Link to work:** No code for now, but here's a tweet with a video of the end result: https://twitter.com/eddy_pearcy/status/1254812944053030915?s=20
