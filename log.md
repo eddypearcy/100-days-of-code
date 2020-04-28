@@ -25,3 +25,12 @@
 **Thoughts:** I really liked this first approach to JavaScript. However I don't need to be an expert to know that my code is really dirty. I will try to improve that point. I didn't continue the Leetcode challenge today as I said yesterday, but I will get back to it one of those days.
 
 **Link to work:** No code for now, but here's a tweet with a video of the end result: https://twitter.com/eddy_pearcy/status/1254812944053030915?s=20
+
+
+### Day 4: April 28, 2020
+
+**Today's Progress**: Got back to the problem of day 2. I ended up scrapping all of my code and starting again from 0 because I figured I didn't have to use BigInteger. I just had to apply a smart algorithm that does additions using a carry. This allows me to stick with the int datatype (could even go with a smaller datatype actually, I just need to fit values from 0 to 9 in there). In the end, my algorithm scored in the top 0.5% on Leetcode. Quite proud of it!
+
+**Thoughts:** What happened today goes to show how important it is to always think before starting. There are often smart ways to do things, but they're not always intuitive. Websites such as Leetcode really focus on this kind of problem for which it is easy to get a solution to but harder to get an O(not_so_scary) solution.
+
+**Link to work:** -
