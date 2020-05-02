@@ -34,3 +34,10 @@
 **Thoughts:** What happened today goes to show how important it is to always think before starting. There are often smart ways to do things, but they're not always intuitive. Websites such as Leetcode really focus on this kind of problem for which it is easy to get a solution to but harder to get an O(not_so_scary) solution.
 
 **Link to work:** -
+
+
+### Day 5: May 1, 2020
+
+**Today's Progress**: Stayed on Leetcode for this fifth day, continued solving algorithmic problems. I solved the "Longest Substring Without Repeating Characters" one. I tried to make my solution as fast as I could.
+
+**Thoughts:** It might seem obvious, but I think it's also easy to forget: start with a solution that works, then make it faster and more efficient. Otherwise it takes too much effort and the programming process gets inefficient.
