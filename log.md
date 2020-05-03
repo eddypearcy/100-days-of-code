@@ -45,7 +45,7 @@
 **Link to work:** -
 
 
-### Day 6: May 2, 2020
+### Day 6: May 3, 2020
 
 **Today's Progress**: Got back to p5.js to try some more animations using particles. I did a fire-looking thing, liked it a lot!
 
