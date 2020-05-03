@@ -36,8 +36,19 @@
 **Link to work:** -
 
 
-### Day 5: May 1, 2020
+### Day 5: May 2, 2020
 
 **Today's Progress**: Stayed on Leetcode for this fifth day, continued solving algorithmic problems. I solved the "Longest Substring Without Repeating Characters" one. I tried to make my solution as fast as I could.
 
 **Thoughts:** It might seem obvious, but I think it's also easy to forget: start with a solution that works, then make it faster and more efficient. Otherwise it takes too much effort and the programming process gets inefficient.
+
+**Link to work:** -
+
+
+### Day 6: May 2, 2020
+
+**Today's Progress**: Got back to p5.js to try some more animations using particles. I did a fire-looking thing, liked it a lot!
+
+**Thoughts:** I heard that p5.js is much slower than some other animation frameworks such as Processing. I might have a look at that at some point.
+
+**Link to work:** No code for now, but here's a tweet of the end result: https://twitter.com/eddy_pearcy/status/1256970749744762881?s=20
