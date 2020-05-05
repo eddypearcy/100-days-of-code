@@ -52,3 +52,22 @@
 **Thoughts:** I heard that p5.js is much slower than some other animation frameworks such as Processing. I might have a look at that at some point.
 
 **Link to work:** No code for now, but here's a tweet of the end result: https://twitter.com/eddy_pearcy/status/1256970749744762881?s=20
+
+
+
+### Day 7: May 4, 2020
+
+**Today's Progress**: Started to solve a Leetcode problem about finding the median of two sorted arrays. Didn't have enough time to finish it, will do that tommorrow. Used Java.
+
+**Thoughts:** -
+
+**Link to work:** -
+
+
+### Day 8: May 5, 2020
+
+**Today's Progress**: Finished the median-related problem of day 7 and started the next one, still on Leetcode. It was about finding the longest substring palindrome in a given string. I once again used Java.
+
+**Thoughts:** Got a really ice solution for the median problem! The solution to the other problem was above averagd but not in the tops. I'm satisfied with the work.
+
+**Link to work:** -
