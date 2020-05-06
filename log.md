@@ -68,6 +68,15 @@
 
 **Today's Progress**: Finished the median-related problem of day 7 and started the next one, still on Leetcode. It was about finding the longest substring palindrome in a given string. I once again used Java.
 
-**Thoughts:** Got a really ice solution for the median problem! The solution to the other problem was above averagd but not in the tops. I'm satisfied with the work.
+**Thoughts:** Got a really nice solution for the median problem! The solution to the other problem was above average but not in the tops. I'm satisfied with the work.
 
 **Link to work:** -
+
+
+### Day 9: May 6, 2020
+
+**Today's Progress**: Started a course to learn Java a bit more thoroughly. Didn't write much code since I just refreshed the basics today.
+
+**Thoughts:** -
+
+**Link to work:** Link to course: https://www.udemy.com/course/java-tutorial/
