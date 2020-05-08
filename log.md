@@ -80,3 +80,12 @@
 **Thoughts:** -
 
 **Link to work:** Link to course: https://www.udemy.com/course/java-tutorial/
+
+
+### Day 10: May 7, 2020
+
+**Today's Progress**: Programmed a 2D Bootstrap SIR filter in Python.
+
+**Thoughts:** -
+
+**Link to work:** -
