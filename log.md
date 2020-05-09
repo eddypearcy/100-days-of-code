@@ -89,3 +89,21 @@
 **Thoughts:** -
 
 **Link to work:** -
+
+
+### Day 11: May 8, 2020
+
+**Today's Progress**: Compared the efficiency of Python's list and collection.deque for stack implementations.
+
+**Thoughts:** Isolating the push operation to time it is not as straightforward as I thought.
+
+**Link to work:** https://twitter.com/eddy_pearcy/status/1259020787954208771?s=20
+
+
+### Day 12: May 9, 2020
+
+**Today's Progress**: Played a bit with Seaborn. Used the Cholesky decomposition to generate multivariate normal distributions.
+
+**Thoughts:** -
+
+**Link to work:** https://twitter.com/eddy_pearcy/status/1259119873034158080?s=20
