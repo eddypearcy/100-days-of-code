@@ -107,3 +107,12 @@
 **Thoughts:** -
 
 **Link to work:** https://twitter.com/eddy_pearcy/status/1259119873034158080?s=20
+
+
+### Day 13: May 11, 2020
+
+**Today's Progress**: Analyzed the speed-up provided by the use of memoization whencomputing Fibonacci numbers and used Matplotlib to generate some plots about it.
+
+**Thoughts:** Discovered that, on Windows 10, time.time has limited precision and that creates "plateaux" on timing plots. Solved that issue by switching over to time.perf_counter. I might investigate that a little further at some point.
+
+**Link to work:** https://twitter.com/eddy_pearcy/status/1259795748633395201?s=20
