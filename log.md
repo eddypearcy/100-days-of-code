@@ -116,3 +116,21 @@
 **Thoughts:** Discovered that, on Windows 10, time.time has limited precision and that creates "plateaux" on timing plots. Solved that issue by switching over to time.perf_counter. I might investigate that a little further at some point.
 
 **Link to work:** https://twitter.com/eddy_pearcy/status/1259795748633395201?s=20
+
+
+### Day 14: May 13, 2020
+
+**Today's Progress**: Played with polynomial interpolation on stock data using Python and numpy.
+
+**Thoughts:** -
+
+**Link to work:** -
+
+
+### Day 15: May 14, 2020
+
+**Today's Progress**: Tried to learn about processes in Java. 
+
+**Thoughts:** Firefox seems to behave strangely when it comes to the waitFor method. The process seems to "detach" from the Java process when Firefox is already opened.
+
+**Link to work:** -
